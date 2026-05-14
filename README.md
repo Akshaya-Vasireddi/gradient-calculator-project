@@ -46,11 +46,17 @@ gradient-calculator/
 └── README.md
 
 How It Works
+
 Select or generate colors
+
 View the live gradient background
+
 Copy the generated CSS gradient code
+
 Use the gradient in your own projects
+
 💡 Concepts Used
+
 DOM Manipulation
 Event Handling
 CSS Gradients
@@ -61,10 +67,15 @@ JavaScript Functions
 Through this project, I improved my understanding of:
 
 Frontend web development
+
 Interactive UI design
+
+
 JavaScript event handling
 Styling with CSS gradients
+
 🔮 Future Improvements
+
 Add radial gradients
 Add gradient angle control
 Add color picker support
